@@ -1,4 +1,4 @@
-# Chicago-Crime-Analyzer
+# Chicago Crime Analyzer
 ## Project Overview
 
 The Chicago Crime Analyzer is a data visualization project designed to analyze and interpret crime trends in Chicago. Using Power BI, this project provides insights into repeat offenders, recidivism rates, crime hotspots, and arrest trends. The goal is to help law enforcement, policymakers, and researchers make data-driven decisions.
