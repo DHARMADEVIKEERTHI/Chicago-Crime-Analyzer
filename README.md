@@ -23,6 +23,30 @@ Use bar charts and line graphs to identify crime trends over time.
 ### Detailed Crime Reports: 
 Generate and export crime reports for deeper analysis.
 
+## Dataset Explanation
+- ID: Unique identifier for each crime incident.
+- Case Number: Unique case number assigned to each incident.
+- Date: Date and time when the crime occurred.
+- Block: Block where the crime occurred.
+- IUCR: Illinois Uniform Crime Reporting code assigned to the crime type.
+- Primary Type: Primary classification of the crime.
+- Description: Detailed description of the crime.
+- Location Description: Description of the location where the crime occurred.
+- Arrest: Indicates whether an arrest was made (TRUE/FALSE).
+- Domestic: Indicates whether the crime was domestic-related (TRUE/FALSE).
+- Beat: Police beat where the crime occurred.
+- District: Police district where the crime occurred.
+- Ward: Ward where the crime occurred.
+- Community Area: Community area where the crime occurred.
+- FBI Code: FBI code classification for the crime.
+- X Coordinate: X coordinate of the crime location.
+- Y Coordinate: Y coordinate of the crime location.
+- Year: Year when the crime was reported.
+- Updated On: Date when the record was last updated.
+- Latitude: Latitude of the crime location.
+- Longitude: Longitude of the crime location.
+- Location: Combined latitude and longitude in a string format. 
+
 ## Datasets
 
 ### Before Cleaned:
