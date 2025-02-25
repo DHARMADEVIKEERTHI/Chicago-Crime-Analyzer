@@ -88,3 +88,6 @@ Provide transparency in crime trends.
 ### Academic Research: 
 Support criminology studies with real-world data.
 
+## Project Results
+
+This project provides key insights into crime trends, identifying high-crime areas, frequent crime types, and arrest patterns. The interactive dashboards enable users to explore data with filters and drill-down capabilities, aiding policy planning and law enforcement strategies. Additionally, predictive modeling options offer future crime trend analysis, enhancing decision-making processes.
