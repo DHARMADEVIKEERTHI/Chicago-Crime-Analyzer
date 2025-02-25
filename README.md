@@ -1,43 +1,66 @@
 # Chicago-Crime-Analyzer
-## 📌 Project Overview
+## Project Overview
 
 The Chicago Crime Analyzer is a data visualization project designed to analyze and interpret crime trends in Chicago. Using Power BI, this project provides insights into repeat offenders, recidivism rates, crime hotspots, and arrest trends. The goal is to help law enforcement, policymakers, and researchers make data-driven decisions.
 
-## 📊 Features
+## Features
 
-Geospatial Clustering: Identify repeat crime locations using interactive maps with tooltips.
+### Geospatial Clustering: 
+Identify repeat crime locations using interactive maps with tooltips.
 
-Recidivism Analysis: Track and visualize recidivism rates using pivot tables and bar charts.
+### Recidivism Analysis: 
+Track and visualize recidivism rates using pivot tables and bar charts.
 
-Interactive Dashboards: Filters for year, crime type, location, and arrest status.
+### Interactive Dashboards: 
+Filters for year, crime type, location, and arrest status.
 
-Key Performance Indicators (KPIs): Track total crimes, arrest rates, and high-crime areas.
+### Key Performance Indicators (KPIs): 
+Track total crimes, arrest rates, and high-crime areas.
 
-Trend Analysis: Use bar charts and line graphs to identify crime trends over time.
+### Trend Analysis: 
+Use bar charts and line graphs to identify crime trends over time.
 
-Detailed Crime Reports: Generate and export crime reports for deeper analysis.
+### Detailed Crime Reports: 
+Generate and export crime reports for deeper analysis.
 
-## 📂 Power BI Dashboard
+## Datasets
 
-View Here: Power BI Dashboards
+### Before Cleaned:
+https://drive.google.com/drive/folders/1bwaN_beK7EEVXgy_Rh9HzAfLDnr4QNPm?zx=pz58aw3c2qzd
 
-## 🛠️ Tech Stack
+### After Cleaned:
+https://drive.google.com/drive/folders/1bwaN_beK7EEVXgy_Rh9HzAfLDnr4QNPm?zx=pz58aw3c2qzd
 
-Visualization: Power BI
+## Power BI Dashboard
 
-Data Processing: Python (Pandas, NumPy)
+### View Here:
+https://drive.google.com/drive/folders/1bwaN_beK7EEVXgy_Rh9HzAfLDnr4QNPm?zx=pz58aw3c2qzd
 
-Data Storage: CSV Files / SQL Database
+## Tech Stack
 
-Version Control: Git & GitHub
+### Visualization: 
+Power BI
 
-## 📈 Business Use Cases
+### Data Processing: 
+Python (Pandas)
 
-Law Enforcement: Identify repeat offenders and high-crime areas.
+### Data Storage: 
+CSV Files and PostgreSQL Database
 
-Government Agencies: Develop crime prevention strategies.
+### Version Control: 
+Git & GitHub
 
-Public Awareness: Provide transparency in crime trends.
+## Business Use Cases
 
-Academic Research: Support criminology studies with real-world data.
+### Law Enforcement: 
+Identify repeat offenders and high-crime areas.
+
+### Government Agencies: 
+Develop crime prevention strategies.
+
+### Public Awareness: 
+Provide transparency in crime trends.
+
+### Academic Research: 
+Support criminology studies with real-world data.
 
